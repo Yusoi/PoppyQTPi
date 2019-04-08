@@ -1,8 +1,6 @@
 import discord
 import time
 
-TOKEN = 'NTYwNTg3NzA1MTI2MzU0OTU1.D32JKQ.dW3uyAtPsByqpggTsFdQnpfum5o'
-
 client = discord.Client()
 prefixes = ["!qt",";;","!","!b"]
 
